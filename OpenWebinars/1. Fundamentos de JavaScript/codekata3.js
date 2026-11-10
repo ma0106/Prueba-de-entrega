@@ -1,7 +1,7 @@
 // Definimos una función llamada 'getCopyright'.
 function getCopyright() {
     // Declaramos una variable local 'copyright' dentro de la función con un texto descriptivo.
-    let copyright = "Armando - OpenWebinars 2023";
+    let copyright = "Miguel Ángel - OpenWebinars 2026";
     // Devolvemos el valor de la variable 'copyright' como resultado de la función.
     return copyright;
 }

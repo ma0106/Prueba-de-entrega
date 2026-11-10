@@ -1,5 +1,5 @@
 // Declaramos una variable global de bloque principal llamada 'name' con el valor "Armando".
-let name = "Armando";
+let name = "Miguel Ángel";
 
 // Creamos un bloque condicional cuya condición siempre es verdadera (true).
 if (true) {
